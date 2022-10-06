@@ -1,0 +1,11 @@
+* {
+    transition: all 300ms;
+}
+
+.dark-theme {
+    background-color: #242424;
+}
+
+.dark-theme * {
+    color: white;
+}
